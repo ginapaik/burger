@@ -1,14 +1,16 @@
 body {
     font-family: 'Germania One', cursive;
     width: 100%;
-    background-image: url('../img/Burger%20background.jpg');
+    /* background-image: url('../img/burger.jpg'); */
 }
+
 
 h1 {
     margin: auto 0;
     margin-left: 20%;
     margin-bottom: 3%;
     margin-top: 2%;
+
 }
 
 #avail {
@@ -27,7 +29,9 @@ h1 {
 li {
     font-size: 20px;
     list-style-type: none;
+  
 }
+
 
 
 #add {
